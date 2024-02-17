@@ -1,0 +1,5 @@
+ezkl/data/train_dataset/
+ezkl/data/test_dataset/
+ezkl/mnist
+ezkl/models
+ezkl/key.pk
